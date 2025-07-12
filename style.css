@@ -273,4 +273,13 @@ section {
   font-weight: 600;
 }
 
+.footer-links a:hover {
+  color: #4e47ff;
+}
 
+.footer-links {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
