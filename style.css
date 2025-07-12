@@ -108,13 +108,6 @@ section {
   max-width: 1440px;
 }
 
-.hero-section .subtitle {
-  font-size: 100px;
-  color: #4f4f4f;
-  max-width: 500px;
-  margin: 0 auto 30px auto;
-}
-
 .action-image img {
   width: 100%;
   border-radius: 16px;
